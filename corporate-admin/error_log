@@ -1,0 +1,7 @@
+
+[08-Feb-2022 11:03:00 UTC] PHP Warning:  chmod(): No such file or directory in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 12
+[08-Feb-2022 11:03:00 UTC] PHP Warning:  move_uploaded_file(../uploads/735009031.jpg): failed to open stream: No such file or directory in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 16
+[08-Feb-2022 11:03:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOmPOTZ' to '../uploads/735009031.jpg' in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 16
+[08-Feb-2022 11:08:35 UTC] PHP Warning:  chmod(): No such file or directory in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 12
+[08-Feb-2022 11:10:46 UTC] PHP Warning:  chmod(): No such file or directory in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 12
+[08-Feb-2022 11:12:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/corporate-admin/upload.php on line 12

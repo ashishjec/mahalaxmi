@@ -1,0 +1,20 @@
+[11-Jan-2022 09:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/aboutPage.php:14
+Stack trace:
+#0 /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/index.php(17): include()
+#1 {main}
+  thrown in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/aboutPage.php on line 14
+[12-Jan-2022 08:55:29 UTC] PHP Fatal error:  Uncaught Error: Cannot access empty property in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/singleBusiness.php:503
+Stack trace:
+#0 /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/index.php(72): include()
+#1 {main}
+  thrown in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/singleBusiness.php on line 503
+[27-Jan-2022 10:57:12 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/chairmanPage.php:70
+Stack trace:
+#0 /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/index.php(22): include()
+#1 {main}
+  thrown in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/chairmanPage.php on line 70
+[08-Feb-2022 10:30:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function substre() in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/homeRecentActivities.php:50
+Stack trace:
+#0 /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/index.php(111): include()
+#1 {main}
+  thrown in /home/iwdserver1/nsws.in.net/development/mahalaxmi/version10/inc/homeRecentActivities.php on line 50
